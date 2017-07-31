@@ -1,0 +1,11 @@
+div#mymodule_block_home p {
+    font-size: 150%;
+    font-style:italic;
+    text-align: center !important;
+}
+
+.center-img {
+    height: 100% !important; 
+    width: 100% !important;
+    object-fit: contain !important;
+}
